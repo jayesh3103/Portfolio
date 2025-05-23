@@ -77,38 +77,41 @@ export const assets = {
 };
 
 export const workData = [
-    {
-        title: 'Nutrivista',
-        description: 'Web & UI/UX Design',
-        bgImage: '/work-1.png',
-    },
-    {
-        title: 'Rural Employment',
-        description: 'Web & UI/UX Design',
-        bgImage: '/work-2.png',
-    },
-    {
-        title: 'Doctor Appointment',
-        description: 'Web & UI/UX Design',
-        bgImage: '/work-3.png',
-    },
-    {
-        title: 'ML Projects',
-        description: 'Algorithmic Prediction Tasks',
-        bgImage: '/work-4.png',
-    },
-]
+{
+    title: 'Nutrivista',
+    description: 'Web & UI/UX Design',
+    bgImage: '/work-1.png',
+    link: 'https://nutrivista-frontend.onrender.com',
+},
+{
+    title: 'GraminMitra',
+    description: 'Web & UI/UX Design',
+    bgImage: '/work-2.png',
+    link: 'https://gramin-mitra-client.vercel.app',
+},
+{
+    title: 'Texbee',
+    description: 'Web & UI/UX Design',
+    bgImage: '/work-3.png',
+    link: 'https://texbee-client.vercel.app',
+},
+{
+    title: 'ML Projects',
+    description: 'Algorithmic Prediction Tasks',
+    bgImage: '/work-4.png',
+},
+];
 
 export const serviceData = [
-    { icon: assets.web_icon, title: 'Web design', description: 'Designed a responsive, minimalist layout with accessible AI meal customization and vibrant, health-inspired elements for an engaging experience.', link: 'https://github.com/jayesh3103/NutriVista' },
-    { icon: assets.mobile_icon, title: 'ML Models', description: 'Collaborative Filtering, KNN, Decision Trees, Neural Networks, & Reinforcement Learning to provide personalized meal recommendations based on user preferences & health goals.', link: 'https://github.com/jayesh3103/NutriVista' },
-    { icon: assets.ui_icon, title: 'Research Paper', description: 'Studying how deep learning models are advancing NLP for more accurate language understanding and translation.', link: '' },
-    { icon: assets.graphics_icon, title: 'Graphics design', description: 'Designed impactful icons, banners, and visuals blending AI and health, ensuring accessibility with clear typography and contrasting colors.', link: 'https://github.com/jayesh3103/NutriVista' },
+    { icon: assets.web_icon, title: 'Web design', description: 'Three distinct websites—Nutrivista, GraminMitra, and TexBee—were designed with a focus on responsiveness, clean layouts, and easy navigation. Built using HTML, CSS, and React.js, each site reflects its unique purpose and user needs.', link: 'https://github.com/jayesh3103' },
+    { icon: assets.mobile_icon, title: 'ML Models', description: 'Machine learning models were developed for job recommendations, chatbot assistance, and stress detection. Built with Python and TensorFlow, these models aim for real-world impact through accuracy, speed, and smooth integration with web platforms.', link: 'https://github.com/jayesh3103' },
+    { icon: assets.ui_icon, title: 'Research Paper', description: 'This study compares classical ML and deep learning techniques for deepfake detection. Using FaceForensics++ data, CNNs outperformed models like SVM and Random Forest in accuracy, showing the strength of automated feature learning.', link: '' },
+    { icon: assets.graphics_icon, title: 'Graphics design', description: 'Visual designs including logos, UI mockups, and social media creatives were crafted for Nutrivista, GraminMitra, and TexBee. Tools like Figma and Canva helped ensure a consistent, clean, and engaging visual identity throughout.', link: 'https://github.com/jayesh3103' },
 ]
 
 export const infoList = [
-    { icon: assets.code_icon, iconDark: assets.code_icon_dark, title: 'Languages', description: 'HTML, CSS, JavaScript React Js, Next Js, Java, Python' },
-    { icon: assets.edu_icon, iconDark: assets.edu_icon_dark, title: 'Education', description: 'M.Tech in Artificial Intelligence' },
+    { icon: assets.code_icon, iconDark: assets.code_icon_dark, title: 'Languages', description: 'HTML, CSS, JavaScript, React Js, Next Js, Java, Python' },
+    { icon: assets.edu_icon, iconDark: assets.edu_icon_dark, title: 'Education', description: 'Integrated M.Tech in Artificial Intelligence' },
     { icon: assets.project_icon, iconDark: assets.project_icon_dark, title: 'Projects', description: 'Built more than 5 projects across diverse domains, including ML and Web Dev.' }
 ];
 
