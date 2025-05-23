@@ -30,7 +30,7 @@ const Services = () => {
       whileInView={{ opacity: 1 }}
       transition={{ delay: 0.7, duration: 0.5 }}
       className='text-center max-w-2xl mx-auto mt-5 mb-12 font-Ovo'>
-        Software developer, automation solutions, coding mentorship, and technical consulting to solve real-world challenges efficiently.</motion.p>
+        Web developer, machine learning enthusiast, and competitive programmer, currently exploring the depths of neural networking concepts.</motion.p>
 
         <motion.div
         initial={{ opacity: 0 }}

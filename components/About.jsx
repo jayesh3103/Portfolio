@@ -4,20 +4,20 @@ import React from 'react'
 import { motion } from "motion/react"
 
 const About = ({isDarkMode}) => {
-  return (
+return (
     <motion.div id='about' className='w-full px-[12%] py-10 scroll-mt-20'
     initial={{opacity: 0}}
     whileInView={{opacity: 1}}
     transition={{duration: 1}}
     >
-      <motion.h4 
-      initial={{opacity: 0, y: -20}}
-      whileInView={{opacity: 1, y: 0}}
-      transition={{duration: 0.5, delay: 0.3}}
-      className='text-center mb-2 text-lg font-Ovo'>
+    <motion.h4
+    initial={{opacity: 0, y: -20}}
+    whileInView={{opacity: 1, y: 0}}
+    transition={{duration: 0.5, delay: 0.3}}
+    className='text-center mb-2 text-lg font-Ovo'>
         Introduction</motion.h4>
 
-      <motion.h2 
+      <motion.h2
       initial={{opacity: 0, y: -20}}
       whileInView={{opacity: 1, y: 0}}
       transition={{duration: 0.5, delay: 0.5}}
