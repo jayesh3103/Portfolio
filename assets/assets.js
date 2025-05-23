@@ -105,7 +105,7 @@ export const workData = [
 export const serviceData = [
     { icon: assets.web_icon, title: 'Web design', description: 'Three distinct websites—Nutrivista, GraminMitra, and TexBee—were designed with a focus on responsiveness, clean layouts, and easy navigation. Built using HTML, CSS, and React.js, each site reflects its unique purpose and user needs.', link: 'https://github.com/jayesh3103' },
     { icon: assets.mobile_icon, title: 'ML Models', description: 'Machine learning models were developed for job recommendations, chatbot assistance, and stress detection. Built with Python and TensorFlow, these models aim for real-world impact through accuracy, speed, and smooth integration with web platforms.', link: 'https://github.com/jayesh3103' },
-    { icon: assets.ui_icon, title: 'Research Paper', description: 'This study compares classical ML and deep learning techniques for deepfake detection. Using FaceForensics++ data, CNNs outperformed models like SVM and Random Forest in accuracy, showing the strength of automated feature learning.', link: '' },
+    { icon: assets.ui_icon, title: 'Research Paper', description: 'Compared classical ML and deep learning techniques for deepfake detection. Using FaceForensics++ data, CNNs outperformed models like SVM and Random Forest in accuracy, showing the strength of automated feature learning.', link: '' },
     { icon: assets.graphics_icon, title: 'Graphics design', description: 'Visual designs including logos, UI mockups, and social media creatives were crafted for Nutrivista, GraminMitra, and TexBee. Tools like Figma and Canva helped ensure a consistent, clean, and engaging visual identity throughout.', link: 'https://github.com/jayesh3103' },
 ]
 
