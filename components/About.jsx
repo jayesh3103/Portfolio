@@ -42,7 +42,7 @@ return (
             transition={{duration: 0.6, delay: 0.8}}
             className='flex-1'>
                 <p className='mb-10 max-w-2xl font-Ovo'
-                >I am a developer and competitive programmer currently pursuing a Master's degree from VIT Bhopal. As a Core Member of the Android Club, I have been actively involved in social media management and technical initiatives. With a strong passion for software development, automation, and competitive programming, I am dedicated to applying my problem-solving, analytical, and teamwork skills to address complex challenges in technology.</p>
+                >Developer and competitive programmer currently pursuing a Master’s degree at VIT Bhopal. As a Core Member of the Android Club, actively contributes to technical initiatives and social media strategy. Proficient in the MERN stack, with hands-on experience in MongoDB, Express.js, React.js, and Node.js to build full-stack web applications. Well-versed in Redux for state management and JWT for authentication. In machine learning, specializes in natural language processing (NLP) using Python libraries such as NLTK and spaCy, complemented by deep learning frameworks like TensorFlow and PyTorch. Driven by a passion for solving real-world problems through scalable, user-centric solutions and collaborative teamwork.</p>
 
                 <motion.ul
                 initial={{opacity: 0}}
